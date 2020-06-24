@@ -16,7 +16,7 @@ I have used following deep neural networks to classify and compare performance a
 * Simple CNN with 5 layers and softmax activation
 * VGG-16
 * VGG-19
-* ResNet-51
+* ResNet-50
 * ResNet-101
 * Inception Resnet
 
